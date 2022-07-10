@@ -1,0 +1,22 @@
+
+
+1=Olu Ozanlar Dernegi(N. H. Kleinbaum)        || Fiyat= 17.75 TL
+2=Fareler ve Insanlar(John Steinbeck)         || Fiyat= 19.99 TL
+3=Suc ve Ceza(Fyodor Dostoyevski)             || Fiyat= 29.99 TL
+4=Bir Delinin Hatira Defteri(Nikolay Gogol)   || Fiyat= 9.00 TL
+5=Canlar Kimin Icin Caliyor(Ernest Hemingway) || Fiyat= 29.99 TL
+6=1984 (George Orwell)                        || Fiyat= 25.50 TL
+7=Yeraltindan Notlar (Fyodor Dostoyevski)     || Fiyat= 20.00 TL
+8=Dorian Gray'in Portresi(Oscar Wilde)        || Fiyat= 14.50 TL
+9=Anna Karenina(Lev Tolstoy)                  || Fiyat= 20.00 TL
+10=Bir Idam Mahkumunun Son Gunu(Victor Hugo)  || Fiyat= 15.50 TL
+11=Gurur ve Onyargi(Jane Austen)              || Fiyat= 19.99 TL
+12=Donusum (Franz Kafka)                      || Fiyat= 10.00 TL
+13=Satranc (Stefan Zweig)                     || Fiyat= 20.00 TL
+14=Kucuk Prens(Stefan Zweig)                  || Fiyat= 8.00 TL
+15=Kurk Mantolu Madonna(Sabahattin Ali)       || Fiyat= 19.99 TL
+16=Savas Sanati(Sun Tzu)                      || Fiyat= 14.50 TL
+17=Olumsuz Aile(Natalie Babbitt)              || Fiyat= 20.00 TL
+18=Hayvan Ciftligi(George Orwell)             || Fiyat= 17.50 TL
+19=Aclik(Knut Hamsun)                         || Fiyat= 20.00 TL
+20=Firtina(William Shakespeare)               || Fiyat= 25.00 TL

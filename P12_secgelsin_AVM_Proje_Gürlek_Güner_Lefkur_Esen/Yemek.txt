@@ -1,0 +1,22 @@
+
+
+1=Bol Malzemeli Pizza ||  Fiyat=30.0 Tl
+2=4 Peynirli Pizza    ||  Fiyat=35.5 Tl
+3=Kiymali Pide        ||  Fiyat=22.9 Tl
+4=Kavurmali Pide      ||  Fiyat=35.9 Tl
+5=Et iskender         ||  Fiyat=40.0 Tl
+6=Tavuk iskender      ||  Fiyat=25.0 Tl
+7=Kumru Menu          ||  Fiyat=22.5 Tl
+8=Et Tantuni          ||  Fiyat=33.0 Tl
+9=Tavuk Tantuni       ||  Fiyat=25.8 Tl
+10=Kokorec            ||  Fiyat=23.3 Tl
+11=Cig Kofte          ||  Fiyat=11.5 Tl
+12=Et Hamburger       ||  Fiyat=44.3 Tl
+13=Tavuk Hamburger    ||  Fiyat=32.2 Tl
+14=Kofte              ||  Fiyat=38.3 Tl
+15=Durum              ||  Fiyat=29.1 Tl
+16=Patates            ||  Fiyat=11.5 Tl
+17=Kumpir             ||  Fiyat=27.5 Tl
+18=Islak Hamburger    ||  Fiyat=10.0 Tl
+19=Arnavut Cigeri     ||  Fiyat=22.0 Tl
+20=Sosisli            ||  Fiyat=10.0 Tl

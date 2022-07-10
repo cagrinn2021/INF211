@@ -1,0 +1,17 @@
+
+
+1=Samsung Galaxy S20      || Fiyar=9.784 Tl
+2=HUAWEİ P40 PRO          || Fiyat=9.330 Tl
+3=Oppo Find X2            || Fiyat=9.600 Tl
+4=Xiaomi Mi 10            || Fiyat=7.946 Tl
+5=Samsung Galaxy S10      || Fiyat=4.996 Tl
+6=iPhone 11               || Fiyat=17.000 Tl
+7=iPhone X                || Fiyat=14.130 Tl
+8=iPhone SE               || Fiyat=6.300 Tl
+9=Samsung Galaxy Z Fold   || Fiyat=18.000 Tl
+10=Samsung Galaxy A71     || Fiyat=3.700 Tl
+11=General Mobile GM20    || Fiyat=1.999 Tl
+12=Poco x3 NFC            || Fiyat=3.175 Tl
+13=Xiaomi Redmi 9         || Fiyat=2.900 Tl
+14=Oppo Reno2             || Fiyat=4.311 Tl
+15=Huawei Mate            || Fiyat=5.553 Tl
